@@ -1,1 +1,1 @@
-print("Hello World After Commit")
+print("Hello World")
